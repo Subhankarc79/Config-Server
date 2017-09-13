@@ -5,7 +5,7 @@ applications:
     instance: 1
     memory: 1G
     name: config-server
-    path: "build/libs/mstest1-0.0.1-SNAPSHOT.jar"
+    #path: "build/libs/mstest1-0.0.1-SNAPSHOT.jar"
     random-route: true
     services: 
       - my_config_repo_svc
